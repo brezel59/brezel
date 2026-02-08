@@ -1,8 +1,7 @@
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <h1 className="text-4xl font-bold font-sans">Welcome to Brezel</h1>
-      <p className="mt-4 text-lg text-muted-foreground">Get started by editing this page.</p>
+      <h1 className="text-4xl font-bold font-sans">firefox</h1>
     </main>
   )
 }
