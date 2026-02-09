@@ -1,1 +1,4 @@
 priority_rules: []
+queue_rules: []
+merge_queue:
+  skip_intermediate_results: true
